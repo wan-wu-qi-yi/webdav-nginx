@@ -19,7 +19,8 @@ shell脚本搭建
 ```shell
 mkdir -p /usr/local/
 cd /usr/local/
-git clone https://gitee.com/wan-wu-qi-yi/webdav-nginx.git && cd webdav-nginx &&  chmod +x main.sh && ./main.sh auto
+rm -rf webdav-nginx
+git clone https://github.com/wan-wu-qi-yi/webdav-nginx.git && cd webdav-nginx &&  chmod +x main.sh && ./main.sh auto
 ```
 
 建议关闭防火墙
