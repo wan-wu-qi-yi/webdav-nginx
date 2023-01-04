@@ -71,10 +71,10 @@ webdav_nginx_install_log=${base_folder}/webdav-nginx-install.log
 
 #参数
 #仓库
-nginx_webdav_download="https://gitee.com/wan-wu-qi-yi/nginx_and_webdav_module.git"
+nginx_webdav_download="https://github.com/wan-wu-qi-yi/nginx_and_webdav_module.git"
 
 # jq
-jq_down_link="https://gitee.com/wan-wu-qi-yi/jq.git"
+jq_down_link="https://github.com/wan-wu-qi-yi/jq.git"
 
 
 # 默认nginx端口
